@@ -4,7 +4,7 @@ import React from "react";
 const About = () => {
   return (
     // Main container with full width/height and background
-    <div name="about" id="about" className="w-full min-h-screen text-gray-800">
+    <div name="about" id="about"  className="w-full min-h-screen  bg-[#dde7e5] text-gray-800">
       {/* Content container with cyan background */}
       <div className="flex flex-col justify-center items-center w-full h-full">
         {/* Title section using grid */}
