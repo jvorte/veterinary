@@ -42,3 +42,6 @@
 .aboutImg{
     max-width: 280px;
 }
+.active {
+    color: #000000; /* Change this to your desired color */
+  }
