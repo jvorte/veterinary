@@ -32,12 +32,12 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to='skills' smooth={true} duration={500}>
+          <Link to='servises' smooth={true} duration={500}>
            Our Servises
           </Link>
         </li>
         <li>
-          <Link to='work' smooth={true} duration={500}>
+          <Link to='appointments' smooth={true} duration={500}>
           Appointments
           </Link>
         </li>
